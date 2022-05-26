@@ -1,0 +1,9 @@
+* Details
+Silently installs Rmail for outlook.
+It tries its best to detect the version of outlook you're running.
+If Rmail is already installed, it uninstalls it and wipes the configuration files/folders
+
+* Usage
+#+begin_src shell
+./script.ps1
+#+end_src
